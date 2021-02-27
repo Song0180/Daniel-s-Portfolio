@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Daniel-s-Portfolio/static/css/main.df6389f5.chunk.css",
+    "main.js": "/Daniel-s-Portfolio/static/js/main.5347afe9.chunk.js",
+    "main.js.map": "/Daniel-s-Portfolio/static/js/main.5347afe9.chunk.js.map",
+    "runtime-main.js": "/Daniel-s-Portfolio/static/js/runtime-main.25101472.js",
+    "runtime-main.js.map": "/Daniel-s-Portfolio/static/js/runtime-main.25101472.js.map",
+    "static/js/2.dcb2dca7.chunk.js": "/Daniel-s-Portfolio/static/js/2.dcb2dca7.chunk.js",
+    "static/js/2.dcb2dca7.chunk.js.map": "/Daniel-s-Portfolio/static/js/2.dcb2dca7.chunk.js.map",
+    "index.html": "/Daniel-s-Portfolio/index.html",
+    "static/css/main.df6389f5.chunk.css.map": "/Daniel-s-Portfolio/static/css/main.df6389f5.chunk.css.map",
+    "static/js/2.dcb2dca7.chunk.js.LICENSE.txt": "/Daniel-s-Portfolio/static/js/2.dcb2dca7.chunk.js.LICENSE.txt",
+    "static/media/Hero.css": "/Daniel-s-Portfolio/static/media/img-2.bb238fc1.jpg",
+    "static/media/App.css": "/Daniel-s-Portfolio/static/media/img-3.6d683c0e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25101472.js",
+    "static/js/2.dcb2dca7.chunk.js",
+    "static/css/main.df6389f5.chunk.css",
+    "static/js/main.5347afe9.chunk.js"
+  ]
+}
