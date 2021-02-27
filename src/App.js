@@ -12,10 +12,10 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path='/' exact component={Home} />
-          <Route path='/home' exact component={Home} />
-          <Route path='/about' exact component={About} />
-          <Route path='/portfolio' exact component={Portfolio} />
+          <Route path='/Daniel-s-Portfolio/' exact component={Home} />
+          <Route path='/Daniel-s-Portfolio/home' exact component={Home} />
+          <Route path='/Daniel-s-Portfolio/about' exact component={About} />
+          <Route path='/Daniel-s-Portfolio/portfolio' exact component={Portfolio} />
           <Route path='/linkedin' component={() => {
             window.location.href = 'https://www.linkedin.com/in/yu-song-becsntu/';
             return null;
