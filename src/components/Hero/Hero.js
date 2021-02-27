@@ -23,7 +23,7 @@ function Hero() {
                     className="btns"
                     buttonStyle="btn--primary"
                     buttonSize="btn--large"
-                    path="/about"
+                    path="/Daniel-s-Portfolio/about"
                 >
                     About me
                 </Button>
